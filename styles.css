@@ -16,3 +16,7 @@ h5,
 h6 {
   font-family: "Draconis", Verdana, Tahoma;
 }
+
+.hr-white {
+  background-color: white;
+}
