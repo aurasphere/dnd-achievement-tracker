@@ -1,0 +1,18 @@
+body {
+  background-image: url("assets/parchment.png");
+}
+
+@font-face {
+  font-family: "Draconis";
+  src: url(assets/draconis-font/Draconis-JRw6B.ttf) format("truetype");
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Draconis", Verdana, Tahoma;
+}
