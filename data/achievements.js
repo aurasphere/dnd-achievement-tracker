@@ -917,4 +917,17 @@ const achievements = [
     text: "<Get a promotion in an organization>",
     visible: false,
   },
+  {
+ "progressivo": "153",
+ "titolo": "<All that glitters is not gold>",
+ "testo": "<Get scammed>",
+"visible": false
+},
+{
+ "progressivo": "154",
+ "titolo": "<Ops... Not My Fault!>",
+ "testo": "<Activate a trap after a failed check>",
+"visible": 
+},
+
 ];
