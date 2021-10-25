@@ -929,4 +929,22 @@ const achievements = [
  "testo": "<Activate a trap after a failed check>",
  "visible":  false
 },
+{
+ "progressivo": "155",
+ "titolo": "<Cirque Du Soleil wannabe>",
+ "testo": "<Roll 1 on an acrobatics check.>",
+"visible": true
+},
+{
+ "progressivo": "156",
+ "titolo": "<Cagliostro's Style>",
+ "testo": "<Roll 20 on a deception check.>",
+"visible": true
+},
+{
+ "progressivo": "157",
+ "titolo": "<To Be or Not To Be>",
+ "testo": "<Roll 20 on a performance check.>",
+ "visible": true
+},
 ];
