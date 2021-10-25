@@ -1,13 +1,26 @@
 $("document").ready(() => {
+  const achievedUnifiedArray = Object.values(achieved).reduce(
+    (o, n) => o.concat(n),
+    []
+  );
+
+  console.log(achievedUnifiedArray);
+
   achievements.forEach((element) => {
     const text = element.visible
       ? escapeHtml(element.testo)
       : element.testo.replace(/./g, "?");
 
+    const logoHtml = achievedUnifiedArray.includes(
+      parseInt(element.progressivo)
+    )
+      ? '<img src="assets/logo.png" alt="logo" width="40"/>'
+      : "";
+
     $("#content").append(
       `<div class="row justify-content-center">
         <div class="col-2 text-right">
-          <img src="assets/logo.png" alt="logo" width="40"/>
+         ${logoHtml}
         </div>
         <div class="col-6">
           <div class="row justify-content-center">
@@ -16,7 +29,9 @@ $("document").ready(() => {
           <div class="row justify-content-center">
             <p class="col text-left">${text}</p>
           </div>
-           <hr class="hr-white"/>
+          <div class="row justify-content-start text-left">
+            <img class="col-12" src="assets/separator.png" alt="separator"/>
+          </div>
         </div>
        `
     );
