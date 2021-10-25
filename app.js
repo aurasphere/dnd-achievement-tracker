@@ -41,7 +41,7 @@ $("document").ready(() => {
          ${obtainedByHtml}
          </div>
          <div class="row justify-content-center">
-            <img class="col-6" src="assets/separator.png" alt="separator"/>
+            <img class="col-8" src="assets/separator.png" alt="separator"/>
           </div>
        `
     );
