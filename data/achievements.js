@@ -927,7 +927,6 @@ const achievements = [
  "progressivo": "154",
  "titolo": "<Ops... Not My Fault!>",
  "testo": "<Activate a trap after a failed check>",
-"visible": 
-},
-
+"visible":  false
+}
 ];
