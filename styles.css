@@ -1,5 +1,10 @@
 body {
   background-image: url("assets/parchment.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  overflow-x: hidden;
 }
 
 @font-face {
@@ -15,6 +20,15 @@ h4,
 h5,
 h6 {
   font-family: "Draconis", Verdana, Tahoma;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #c73032;
 }
 
 .hr-white {
