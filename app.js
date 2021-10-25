@@ -4,35 +4,36 @@ $("document").ready(() => {
     []
   );
 
-  console.log(achievedUnifiedArray);
-
   achievements.forEach((element) => {
-    const text = element.visible
-      ? escapeHtml(element.testo)
-      : element.testo.replace(/./g, "?");
-
-    const logoHtml = achievedUnifiedArray.includes(
+    const achieved = achievedUnifiedArray.includes(
       parseInt(element.progressivo)
-    )
+    );
+
+    const text =
+      element.visible || achieved
+        ? escapeHtml(element.testo)
+        : element.testo.replace(/./g, "?");
+
+    const logoHtml = achieved
       ? '<img src="assets/logo.png" alt="logo" width="40"/>'
       : "";
 
     $("#content").append(
-      `<div class="row justify-content-center">
+      `<div class="row justify-content-center align-items-center">
         <div class="col-2 text-right">
          ${logoHtml}
         </div>
-        <div class="col-6">
+        <div class="col-4">
           <div class="row justify-content-center">
             <h4 class="col text-left">${escapeHtml(element.titolo)}</h4>
           </div>
           <div class="row justify-content-center">
             <p class="col text-left">${text}</p>
           </div>
-          <div class="row justify-content-start text-left">
-            <img class="col-12" src="assets/separator.png" alt="separator"/>
-          </div>
         </div>
+         <div class="row justify-content-center">
+            <img class="col-6" src="assets/separator.png" alt="separator"/>
+          </div>
        `
     );
   });
