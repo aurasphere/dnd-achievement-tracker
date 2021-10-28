@@ -13,7 +13,7 @@ visible: true
 },
 {
  id: "3",
- title: "<HollaHollaGet Dolla>",
+ title: "<Holla Holla Get Dolla>",
  text: "<Amass 1,000 gold pieces.>",
 visible: true
 },
@@ -61,7 +61,7 @@ visible: true
 },
 {
  id: "11",
- title: "<Hey, It’s EnricoPallazo!>",
+ title: "<Hey, It’s Enrico Pallazo!>",
  text: "<Beat a performance check while in disguise.>",
 visible: true
 },
@@ -373,7 +373,7 @@ visible: false
 },
 {
  id: "63",
- title: "<Ain'tGot Time To Bleed>",
+ title: "<Ain't Got Time To Bleed>",
  text: "<Kill 3 enemies at half health in 1 encounter.>",
 visible: true
 },
@@ -427,7 +427,7 @@ visible: false
 },
 {
  id: "72",
- title: "<Sic SemperTyrannis>",
+ title: "<Sic Semper Tyrannis>",
  text: "<Kill a loved political figure.>",
 visible: false
 },
@@ -565,7 +565,7 @@ visible: false
 },
 {
  id: "95",
- title: "<We’re On AMission From God>",
+ title: "<We’re On A Mission From God>",
  text: "<Receive divine direction.>",
 visible: false
 },
@@ -805,7 +805,7 @@ visible: true
 },
 {
  id: "135",
- title: "<GonnaNeed A Bigger Boat>",
+ title: "<Gonna Need A Bigger Boat>",
  text: "<Survive a fight with a sea monster.>",
 visible: false
 },
