@@ -907,48 +907,48 @@ visible: false
 },
 {
  id: "152",
- title: "<Come To The Dark Side>",
- text: "<Make alliance with a shadowy NPC>",
-visible: false
-},
-{
- id: "152",
  title: "<Stairway To Heaven>",
- text: "<Get a promotion in an organization>",
+ text: "<Get a promotion in an organization.>",
 visible: false
 },
 {
  id: "153",
- title: "<All that glitters is not gold>",
- text: "<Get scammed>",
+ title: "<Come To The Dark Side>",
+ text: "<Make alliance with a shadowy NPC.>",
 visible: false
 },
 {
  id: "154",
- title: "<Ops... Not My Fault!>",
- text: "<Activate a trap after a failed check>",
-visible: true
+ title: "<All that glitters is not gold>",
+ text: "<Get scammed.>",
+visible: false
 },
 {
  id: "155",
+ title: "<Ops... Not My Fault!>",
+ text: "<Activate a trap after a failed check.>",
+visible: true
+},
+{
+ id: "156",
  title: "<Cirque Du Soleil wannabe>",
  text: "<Roll 1 on an acrobatics check.>",
 visible: true
 },
 {
- id: "156",
+ id: "157",
  title: "<Cagliostro's Style>",
  text: "<Roll 20 on a deception check.>",
 visible: true
 },
 {
- id: "157",
+ id: "158",
  title: "<To Be or Not To Be>",
  text: "<Roll 20 on a performance check.>",
 visible: true
 },
- {
- id: "158",
+{
+ id: "159",
  title: "<Usain Bolt, Where Are U?>",
  text: "<Roll 20 on a initative roll.>",
 visible: true
