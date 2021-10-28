@@ -157,7 +157,7 @@ visible: true
 },
 {
  id: "156",
- title: "<Cirque Du Soleil wannabe>",
+ title: "<Cirque Du Soleil Wannabe>",
  text: "<Roll 1 on an acrobatics check.>",
 visible: true
 },
