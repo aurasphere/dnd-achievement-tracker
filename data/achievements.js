@@ -673,7 +673,7 @@ visible: true
 },
 {
  id: "113",
- title: "<WannaSee My Mask?>",
+ title: "<Wanna See My Mask?>",
  text: "<Roll 20 on an intimidation check.>",
 visible: true
 },
@@ -916,5 +916,35 @@ visible: false
  title: "<Stairway To Heaven>",
  text: "<Get a promotion in an organization>",
 visible: false
+},
+{
+ id: "153",
+ title: "<All that glitters is not gold>",
+ text: "<Get scammed>",
+visible: false
+},
+{
+ id: "154",
+ title: "<Ops... Not My Fault!>",
+ text: "<Activate a trap after a failed check>",
+visible: true
+},
+{
+ id: "155",
+ title: "<Cirque Du Soleil wannabe>",
+ text: "<Roll 1 on an acrobatics check.>",
+visible: true
+},
+{
+ id: "156",
+ title: "<Cagliostro's Style>",
+ text: "<Roll 20 on a deception check.>",
+visible: true
+},
+{
+ id: "157",
+ title: "<To Be or Not To Be>",
+ text: "<Roll 20 on a performance check.>",
+visible: true
 },
 ];
