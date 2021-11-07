@@ -15,7 +15,7 @@ visible: true
  id: "127",
  title: "<99 Red Balloons>",
  text: "<Start a war between 2 or more countries.>",
-visible: false
+visible: true
 },
 {
  id: "51",
@@ -27,7 +27,7 @@ visible: true
  id: "150",
  title: "<A Farewell To Arms>",
  text: "<Willingly remove a limb.>",
-visible: false
+visible: true
 },
 {
  id: "9",
@@ -39,7 +39,7 @@ visible: true
  id: "124",
  title: "<African Or European?>",
  text: "<Spend more than 30 minutes on a puzzle.>",
-visible: false
+visible: true
 },
 {
  id: "63",
@@ -51,7 +51,7 @@ visible: true
  id: "154",
  title: "<All that glitters is not gold>",
  text: "<Get scammed.>",
-visible: false
+visible: true
 },
 {
  id: "106",
@@ -63,13 +63,13 @@ visible: true
  id: "136",
  title: "<All Washed Up>",
  text: "<Survive a shipwreck.>",
-visible: false
+visible: true
 },
 {
  id: "53",
  title: "<And Stay Out!>",
  text: "<Get kicked out of a public establishment.>",
-visible: false
+visible: true
 },
 {
  id: "44",
@@ -81,7 +81,7 @@ visible: true
  id: "69",
  title: "<Armaments 2:9-21>",
  text: "<Kill a monster with a holy weapon.>",
-visible: false
+visible: true
 },
 {
  id: "59",
@@ -93,19 +93,19 @@ visible: true
  id: "89",
  title: "<Bloodbath And Beyond>",
  text: "<Open a shop in a settlement.>",
-visible: false
+visible: true
 },
 {
  id: "54",
  title: "<Blue Falcon>",
  text: "<Get your entire party dragged into trouble.>",
-visible: false
+visible: true
 },
 {
  id: "33",
  title: "<Blue! No, Yello-AUUUUUUUUGH>",
  text: "<Die from a puzzle.>",
-visible: false
+visible: true
 },
 {
  id: "149",
@@ -129,7 +129,7 @@ visible: true
  id: "71",
  title: "<Buzzkill>",
  text: "<Kill an annoying NPC.>",
-visible: false
+visible: true
 },
 {
  id: "157",
@@ -141,13 +141,13 @@ visible: true
  id: "5",
  title: "<Can You Do Me A Solid?>",
  text: "<Ask a deity for a favor.>",
-visible: false
+visible: true
 },
 {
  id: "120",
  title: "<Chaos Is A Ladder>",
  text: "<Shift your alignment to chaotic.>",
-visible: false
+visible: true
 },
 {
  id: "112",
@@ -171,7 +171,7 @@ visible: true
  id: "153",
  title: "<Come To The Dark Side>",
  text: "<Make alliance with a shadowy NPC.>",
-visible: false
+visible: true
 },
 {
  id: "114",
@@ -183,25 +183,25 @@ visible: true
  id: "79",
  title: "<Dark And Full Of Terrors>",
  text: "<Kill someone in the name of a god.>",
-visible: false
+visible: true
 },
 {
  id: "64",
  title: "<Deus Ex>",
  text: "<Kill a deity.>",
-visible: false
+visible: true
 },
 {
  id: "18",
  title: "<Did I Do That?>",
  text: "<Cause a total party kill.>",
-visible: false
+visible: true
 },
 {
  id: "13",
  title: "<Did I Mention I’m A God Now?>",
  text: "<Become deified.>",
-visible: false
+visible: true
 },
 {
  id: "110",
@@ -213,13 +213,13 @@ visible: true
  id: "90",
  title: "<Do You Hear The People Sing?>",
  text: "<Overthrow a government.>",
-visible: false
+visible: true
 },
 {
  id: "148",
  title: "<Dobby Is Free>",
  text: "<Team up with an NPC sidekick.>",
-visible: false
+visible: true
 },
 {
  id: "131",
@@ -243,7 +243,7 @@ visible: true
  id: "75",
  title: "<Double Tap>",
  text: "<Kill an undead enemy with a head shot.>",
-visible: false
+visible: true
 },
 {
  id: "74",
@@ -261,7 +261,7 @@ visible: true
  id: "66",
  title: "<Finesse>",
  text: "<Kill an enemy with no overkill damage.>",
-visible: false
+visible: true
 },
 {
  id: "27",
@@ -279,19 +279,19 @@ visible: true
  id: "32",
  title: "<Fool Me Twice>",
  text: "<Die for the second time.>",
-visible: false
+visible: true
 },
 {
  id: "130",
  title: "<For King And Country>",
  text: "<Successfully defend a royal life.>",
-visible: false
+visible: true
 },
 {
  id: "100",
  title: "<French Tactics>",
  text: "<Retreat from 5 battles.>",
-visible: false
+visible: true
 },
 {
  id: "107",
@@ -315,7 +315,7 @@ visible: true
  id: "143",
  title: "<Get On With It!>",
  text: "<Talk out of character for a full minute.>",
-visible: false
+visible: true
 },
 {
  id: "57",
@@ -327,13 +327,13 @@ visible: true
  id: "80",
  title: "<Glutton For Punishment>",
  text: "<Knowingly activate a trap.>",
-visible: false
+visible: true
 },
 {
  id: "135",
  title: "<Gonna Need A Bigger Boat>",
  text: "<Survive a fight with a sea monster.>",
-visible: false
+visible: true
 },
 {
  id: "83",
@@ -351,13 +351,13 @@ visible: true
  id: "30",
  title: "<He’s Dead, Jim>",
  text: "<Die for the first time.>",
-visible: false
+visible: true
 },
 {
  id: "37",
  title: "<Heart Of Darkness>",
  text: "<Enslave a people.>",
-visible: false
+visible: true
 },
 {
  id: "6",
@@ -381,13 +381,13 @@ visible: true
  id: "15",
  title: "<Homewrecker>",
  text: "<Break up an NPC marriage or relationship.>",
-visible: false
+visible: true
 },
 {
  id: "73",
  title: "<I Can Kill You With My Brain>",
  text: "<Kill an enemy using only skill checks.>",
-visible: false
+visible: true
 },
 {
  id: "1",
@@ -423,7 +423,7 @@ visible: true
  id: "62",
  title: "<I’m Here To Lead, Not Read!>",
  text: "<Ignore a crucial plot point.>",
-visible: false
+visible: true
 },
 {
  id: "134",
@@ -435,13 +435,13 @@ visible: true
  id: "98",
  title: "<I’ve Fallen And I Can’t Get Up>",
  text: "<Remain prone for 3 consecutive rounds.>",
-visible: false
+visible: true
 },
 {
  id: "117",
  title: "<Imperial Marksmanship Academy>",
  text: "<Score 3 ranged misses in 1 encounter.>",
-visible: false
+visible: true
 },
 {
  id: "140",
@@ -453,31 +453,31 @@ visible: true
  id: "138",
  title: "<It’s In The Pipes>",
  text: "<Survive being petrified.>",
-visible: false
+visible: true
 },
 {
  id: "52",
  title: "<It’s Just A Flesh Wound>",
  text: "<Get dismembered.>",
-visible: false
+visible: true
 },
 {
  id: "99",
  title: "<It’s Levi-OH-Sah>",
  text: "<Roll 1 on a spell cast.>",
-visible: false
+visible: true
 },
 {
  id: "50",
  title: "<It’s Not A Tumor>",
  text: "<Get a permanent deformity.>",
-visible: false
+visible: true
 },
 {
  id: "145",
  title: "<It’s Super Effective!>",
  text: "<Trigger an enemy’s vulnerability.>",
-visible: false
+visible: true
 },
 {
  id: "41",
@@ -495,7 +495,7 @@ visible: true
  id: "137",
  title: "<Life, Uh, Finds A Way>",
  text: "<Survive an encounter with 1/4thHP.>",
-visible: false
+visible: true
 },
 {
  id: "126",
@@ -507,7 +507,7 @@ visible: true
  id: "77",
  title: "<Long Live The King>",
  text: "<Kill and replace a sovereign leader.>",
-visible: false
+visible: true
 },
 {
  id: "4",
@@ -531,7 +531,7 @@ visible: true
  id: "133",
  title: "<Mithridates, He Died Old>",
  text: "<Survive 50 points of poison damage.>",
-visible: false
+visible: true
 },
 {
  id: "104",
@@ -543,19 +543,19 @@ visible: true
  id: "102",
  title: "<My Precious>",
  text: "<Retrieve a MacGuffin.>",
-visible: false
+visible: true
 },
 {
  id: "103",
  title: "<My Turn!>",
  text: "<Revive an NPC just to kill them yourself.>",
-visible: false
+visible: true
 },
 {
  id: "129",
  title: "<Never Tell Me The Odds>",
  text: "<Succeed only because you rolled a 20.>",
-visible: false
+visible: true
 },
 {
  id: "19",
@@ -567,19 +567,19 @@ visible: true
  id: "76",
  title: "<Nothing Is True>",
  text: "<Kill an NPC without being seen or heard.>",
-visible: false
+visible: true
 },
 {
  id: "82",
  title: "<Nothing Personal, Just Business>",
  text: "<Let a fellow PC die for your personal gain.>",
-visible: false
+visible: true
 },
 {
  id: "141",
  title: "<Nothing To See Here>",
  text: "<Take and/or give 10 bribes.>",
-visible: false
+visible: true
 },
 {
  id: "23",
@@ -591,19 +591,19 @@ visible: true
  id: "147",
  title: "<Objection!>",
  text: "<Win a legal case.>",
-visible: false
+visible: true
 },
 {
  id: "16",
  title: "<Oh Yeah!>",
  text: "<Burst through a wall.>",
-visible: false
+visible: true
 },
 {
  id: "17",
  title: "<One Mustn’t Tell Lies>",
  text: "<Call out a lying NPC.>",
-visible: false
+visible: true
 },
 {
  id: "155",
@@ -639,13 +639,13 @@ visible: true
  id: "35",
  title: "<Safety First>",
  text: "<Discover a trap before it discovers you.>",
-visible: false
+visible: true
 },
 {
  id: "119",
  title: "<Sexual Tyrannosaurus>",
  text: "<Seduce an NPC.>",
-visible: false
+visible: true
 },
 {
  id: "40",
@@ -663,13 +663,13 @@ visible: true
  id: "151",
  title: "<Shut The Fuck Up, Donnie!>",
  text: "<Verbally abuse a fellow PC.>",
-visible: false
+visible: true
 },
 {
  id: "72",
  title: "<Sic Semper Tyrannis>",
  text: "<Kill a loved political figure.>",
-visible: false
+visible: true
 },
 {
  id: "111",
@@ -681,7 +681,7 @@ visible: true
  id: "84",
  title: "<Snake? SNAKE?! SNAAAAAAAKE>",
  text: "<Lose the campaign.>",
-visible: false
+visible: true
 },
 {
  id: "60",
@@ -693,31 +693,31 @@ visible: true
  id: "78",
  title: "<Sorry About The Mess>",
  text: "<Kill someone in a public place.>",
-visible: false
+visible: true
 },
 {
  id: "152",
  title: "<Stairway To Heaven>",
  text: "<Get a promotion in an organization.>",
-visible: false
+visible: true
 },
 {
  id: "128",
  title: "<Sticky Fingers>",
  text: "<Steal more than 100 gold.>",
-visible: false
+visible: true
 },
 {
  id: "93",
  title: "<Stop Hitting Yourself>",
  text: "<Reach 0 HP from a fumbled attack roll.>",
-visible: false
+visible: true
 },
 {
  id: "132",
  title: "<Stop, Drop, And Roll>",
  text: "<Survive 3 rounds of ongoing fire damage.>",
-visible: false
+visible: true
 },
 {
  id: "122",
@@ -735,7 +735,7 @@ visible: true
  id: "123",
  title: "<That Still Only Counts As One>",
  text: "<Solo a large monster.>",
-visible: false
+visible: true
 },
 {
  id: "22",
@@ -753,13 +753,13 @@ visible: true
  id: "29",
  title: "<The Catalyst>",
  text: "<Destroy the planet.>",
-visible: false
+visible: true
 },
 {
  id: "146",
  title: "<The Chewbacca Defense>",
  text: "<Use poor logic in a persuasion check.>",
-visible: false
+visible: true
 },
 {
  id: "108",
@@ -771,31 +771,31 @@ visible: true
  id: "68",
  title: "<The Other Half>",
  text: "<Kill a dragon.>",
-visible: false
+visible: true
 },
 {
  id: "92",
  title: "<The Other Red Dragon>",
  text: "<Practice cannibalism.>",
-visible: false
+visible: true
 },
 {
  id: "86",
  title: "<The Power Of One>",
  text: "<Make a success/fail difference with a +1 buff.>",
-visible: false
+visible: true
 },
 {
  id: "20",
  title: "<The Rains of Castamere>",
  text: "<Commit genocide.>",
-visible: false
+visible: true
 },
 {
  id: "85",
  title: "<They Didn’t Mention Any Math!>",
  text: "<Miscount gold while splitting the loot.>",
-visible: false
+visible: true
 },
 {
  id: "10",
@@ -807,13 +807,13 @@ visible: true
  id: "31",
  title: "<Third Time’s A Charm>",
  text: "<Die for the third time.>",
-visible: false
+visible: true
 },
 {
  id: "142",
  title: "<This Is Bat Country>",
  text: "<Take drugs in the game.>",
-visible: false
+visible: true
 },
 {
  id: "158",
@@ -825,13 +825,13 @@ visible: true
  id: "94",
  title: "<Tubthumping>",
  text: "<Reach 0 HP twice in 1 encounter.>",
-visible: false
+visible: true
 },
 {
  id: "101",
  title: "<Us Of Lesser Gods>",
  text: "<Resolve a religious conflict nonviolently.>",
-visible: false
+visible: true
 },
 {
  id: "159",
@@ -843,13 +843,13 @@ visible: true
  id: "39",
  title: "<Valar Morghulis>",
  text: "<Experience a total party kill.>",
-visible: false
+visible: true
 },
 {
  id: "25",
  title: "<Walking Guillotine>",
  text: "<Decapitate 20 enemies.>",
-visible: false
+visible: true
 },
 {
  id: "113",
@@ -867,13 +867,13 @@ visible: true
  id: "95",
  title: "<We’re On A Mission From God>",
  text: "<Receive divine direction.>",
-visible: false
+visible: true
 },
 {
  id: "81",
  title: "<Well, I Didn’t Vote For Him>",
  text: "<Legitimately achieve high political status.>",
-visible: false
+visible: true
 },
 {
  id: "14",
@@ -885,7 +885,7 @@ visible: true
  id: "88",
  title: "<What Are You, Psychic?>",
  text: "<Mix player and character knowledge.>",
-visible: false
+visible: true
 },
 {
  id: "38",
@@ -897,19 +897,19 @@ visible: true
  id: "49",
  title: "<Who Needs Rules?>",
  text: "<Go a full session without touching your dice.>",
-visible: false
+visible: true
 },
 {
  id: "55",
  title: "<Who Needs Sleep?>",
  text: "<Go 3 days without a long rest.>",
-visible: false
+visible: true
 },
 {
  id: "28",
  title: "<Whoops!>",
  text: "<Destroy an item necessary for a quest.>",
-visible: false
+visible: true
 },
 {
  id: "65",
@@ -921,25 +921,25 @@ visible: true
  id: "12",
  title: "<You Bow To No One>",
  text: "<Beat the campaign.>",
-visible: false
+visible: true
 },
 {
  id: "121",
  title: "<You Either Die AHero…>",
  text: "<Shift your alignment to Evil.>",
-visible: false
+visible: true
 },
 {
  id: "139",
  title: "<You Got Me Monologuing>",
  text: "<Take advantage of a talkative villain.>",
-visible: false
+visible: true
 },
 {
  id: "97",
  title: "<You Know Nothing, Jon Snow>",
  text: "<Roll 1 on an intelligence check.>",
-visible: false
+visible: true
 },
 {
  id: "61",
@@ -951,6 +951,6 @@ visible: true
  id: "144",
  title: "<Your Mother Was A Hamster>",
  text: "<Taunt an enemy to get their attention.>",
-visible: false
+visible: true
 },
 ];
