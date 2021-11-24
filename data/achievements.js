@@ -330,12 +330,6 @@ visible: true
 visible: true
 },
 {
- id: "134",
- title: "<I’m Okay!>",
- text: "<Survive a crit.>",
-visible: true
-},
-{
  id: "138",
  title: "<It’s In The Pipes>",
  text: "<Survive being petrified.>",
@@ -729,6 +723,12 @@ visible: true
  id: "139",
  title: "<You Got Me Monologuing>",
  text: "<Take advantage of a talkative villain.>",
+visible: true
+},
+ {
+ id: "200",
+ title: "<The Butterfly Effect>",
+ text: "<Make a seemingly small choice that will lead to a disaster in the future>",
 visible: true
 },
 ];
