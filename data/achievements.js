@@ -1,38 +1,14 @@
 const achievements = [
 {
- id: "118",
- title: "<.000 Batting Average>",
- text: "<Score 3 melee misses in 1 encounter.>",
-visible: true
-},
-{
- id: "47",
- title: "<20% Cooler>",
- text: "<Get a better set of armor.>",
-visible: true
-},
-{
  id: "127",
  title: "<99 Red Balloons>",
  text: "<Start a war between 2 or more countries.>",
 visible: true
 },
 {
- id: "51",
- title: "<A Bird In The Hand>",
- text: "<Get a worse result on a reroll.>",
-visible: true
-},
-{
  id: "150",
  title: "<A Farewell To Arms>",
  text: "<Willingly remove a limb.>",
-visible: true
-},
-{
- id: "9",
- title: "<A Wizard Is Never Late>",
- text: "<Be the first person to the game.>",
 visible: true
 },
 {
@@ -72,21 +48,9 @@ visible: true
 visible: true
 },
 {
- id: "44",
- title: "<Are You Not Entertained?>",
- text: "<Finish an encounter within 10 rounds.>",
-visible: true
-},
-{
  id: "69",
  title: "<Armaments 2:9-21>",
  text: "<Kill a monster with a holy weapon.>",
-visible: true
-},
-{
- id: "59",
- title: "<Avengers Assemble>",
- text: "<Have the party gang up on a single enemy.>",
 visible: true
 },
 {
@@ -132,12 +96,6 @@ visible: true
 visible: true
 },
 {
- id: "157",
- title: "<Cagliostro's Style>",
- text: "<Roll 20 on a deception check.>",
-visible: true
-},
-{
  id: "5",
  title: "<Can You Do Me A Solid?>",
  text: "<Ask a deity for a favor.>",
@@ -150,18 +108,6 @@ visible: true
 visible: true
 },
 {
- id: "112",
- title: "<Cirque Du Soleil Runaway>",
- text: "<Roll 20 on an acrobatics check.>",
-visible: true
-},
-{
- id: "156",
- title: "<Cirque Du Soleil Wannabe>",
- text: "<Roll 1 on an acrobatics check.>",
-visible: true
-},
-{
  id: "45",
  title: "<Clever Girl>",
  text: "<Flank and kill an unsuspecting enemy.>",
@@ -171,12 +117,6 @@ visible: true
  id: "153",
  title: "<Come To The Dark Side>",
  text: "<Make alliance with a shadowy NPC.>",
-visible: true
-},
-{
- id: "114",
- title: "<Crikey!>",
- text: "<Roll 20 on an animal handling check.>",
 visible: true
 },
 {
@@ -228,12 +168,6 @@ visible: true
 visible: true
 },
 {
- id: "109",
- title: "<Does That Mean I Go First?>",
- text: "<Roll 1 on an initiative roll.>",
-visible: true
-},
-{
  id: "87",
  title: "<Don’t You Forget About Me>",
  text: "<Meet with a recurring villain.>",
@@ -270,24 +204,6 @@ visible: true
 visible: true
 },
 {
- id: "66",
- title: "<Finesse>",
- text: "<Kill an enemy with no overkill damage.>",
-visible: true
-},
-{
- id: "27",
- title: "<Finish Him!>",
- text: "<Deliver 10 coups de grâce.>",
-visible: true
-},
-{
- id: "36",
- title: "<Flawless Victory>",
- text: "<Don’t take damage in an encounter.>",
-visible: true
-},
-{
  id: "32",
  title: "<Fool Me Twice>",
  text: "<Die for the second time.>",
@@ -306,18 +222,6 @@ visible: true
 visible: true
 },
 {
- id: "100",
- title: "<French Tactics>",
- text: "<Retreat from 5 battles.>",
-visible: true
-},
-{
- id: "107",
- title: "<Friends, Romans, Countrymen…>",
- text: "<Roll 20 on a persuasion check.>",
-visible: true
-},
-{
  id: "116",
  title: "<Friendship Is Magic>",
  text: "<Save a PC in need.>",
@@ -327,18 +231,6 @@ visible: true
  id: "24",
  title: "<Fucking Hippie>",
  text: "<Deal no damage in an encounter.>",
-visible: true
-},
-{
- id: "143",
- title: "<Get On With It!>",
- text: "<Talk out of character for a full minute.>",
-visible: true
-},
-{
- id: "57",
- title: "<Get Over Here!>",
- text: "<Grapple enemies 3 times in 1 encounter.>",
 visible: true
 },
 {
@@ -357,18 +249,6 @@ visible: true
  id: "170",
  title: "<Gordian Plot>",
  text: "<Avoid a significant challenge thanks to your outside-the-box thinking.>",
-visible: true
-},
-{
- id: "83",
- title: "<Hadouken!>",
- text: "<Lob a flaming projectile at an enemy.>",
-visible: true
-},
-{
- id: "43",
- title: "<Half The Title>",
- text: "<Finish a dungeon.>",
 visible: true
 },
 {
@@ -399,12 +279,6 @@ visible: true
  id: "11",
  title: "<Hey, It’s Enrico Pallazo!>",
  text: "<Beat a performance check while in disguise.>",
-visible: true
-},
-{
- id: "3",
- title: "<Holla Holla Get Dolla>",
- text: "<Amass 1,000 gold pieces.>",
 visible: true
 },
 {
@@ -462,24 +336,6 @@ visible: true
 visible: true
 },
 {
- id: "98",
- title: "<I’ve Fallen And I Can’t Get Up>",
- text: "<Remain prone for 3 consecutive rounds.>",
-visible: true
-},
-{
- id: "117",
- title: "<Imperial Marksmanship Academy>",
- text: "<Score 3 ranged misses in 1 encounter.>",
-visible: true
-},
-{
- id: "140",
- title: "<It Belongs In A Museum>",
- text: "<Take an artifact from a dungeon.>",
-visible: true
-},
-{
  id: "138",
  title: "<It’s In The Pipes>",
  text: "<Survive being petrified.>",
@@ -489,12 +345,6 @@ visible: true
  id: "52",
  title: "<It’s Just A Flesh Wound>",
  text: "<Get dismembered.>",
-visible: true
-},
-{
- id: "99",
- title: "<It’s Levi-OH-Sah>",
- text: "<Roll 1 on a spell cast.>",
 visible: true
 },
 {
@@ -522,39 +372,15 @@ visible: true
 visible: true
 },
 {
- id: "175",
- title: "<Lawful Good Rules Lawyer>",
- text: "<Politely correct the DM of a rule which is unpleasant for your PC>",
-visible: true
-},
-{
- id: "137",
- title: "<Life, Uh, Finds A Way>",
- text: "<Survive an encounter with 1/4thHP.>",
-visible: true
-},
-{
  id: "165",
  title: "<Like A Well Played Game of Chess>",
  text: "<Defeat every enemy in an encounter during the surprise round.>",
 visible: true
 },
 {
- id: "126",
- title: "<Live, Damn You!>",
- text: "<Stabilize a dying character.>",
-visible: true
-},
-{
  id: "77",
  title: "<Long Live The King>",
  text: "<Kill and replace a sovereign leader.>",
-visible: true
-},
-{
- id: "4",
- title: "<Mark It Zero>",
- text: "<Argue with the DM over a dice roll.>",
 visible: true
 },
 {
@@ -606,12 +432,6 @@ visible: true
 visible: true
 },
 {
- id: "19",
- title: "<Not Today>",
- text: "<Come back from 0 HP.>",
-visible: true
-},
-{
  id: "76",
  title: "<Nothing Is True>",
  text: "<Kill an NPC without being seen or heard.>",
@@ -621,12 +441,6 @@ visible: true
  id: "82",
  title: "<Nothing Personal, Just Business>",
  text: "<Let a fellow PC die for your personal gain.>",
-visible: true
-},
-{
- id: "141",
- title: "<Nothing To See Here>",
- text: "<Take and/or give 10 bribes.>",
 visible: true
 },
 {
@@ -654,18 +468,6 @@ visible: true
 visible: true
 },
 {
- id: "155",
- title: "<Ops... Not My Fault!>",
- text: "<Activate a trap after a failed check.>",
-visible: true
-},
-{
- id: "7",
- title: "<Overruled>",
- text: "<Be ignored by the DM when citing rules.>",
-visible: true
-},
-{
  id: "96",
  title: "<Peace Sells>",
  text: "<Reconcile differences between mortal enemies.>",
@@ -678,21 +480,9 @@ visible: true
 visible: true
 },
 {
- id: "8",
- title: "<Put The “Tard” In “Tardy”>",
- text: "<Be the last person to the game.>",
-visible: true
-},
-{
  id: "58",
  title: "<Rasputin>",
  text: "<Have 3 types of impairing conditions at once.>",
-visible: true
-},
-{
- id: "35",
- title: "<Safety First>",
- text: "<Discover a trap before it discovers you.>",
 visible: true
 },
 {
@@ -834,24 +624,6 @@ visible: true
 visible: true
 },
 {
- id: "163",
- title: "<The Dice Giveth>",
- text: "<Roll a natural 20 when a 19 would have missed.>",
-visible: true
-},
-{
- id: "164",
- title: "<The Dice Taketh Away>",
- text: "<Roll a natural 1 when a 2 would have hit.>",
-visible: true
-},
-{
- id: "108",
- title: "<The Lady Protests Too Much>",
- text: "<Roll 1 on a deception check.>",
-visible: true
-},
-{
  id: "68",
  title: "<The Other Half>",
  text: "<Kill a dragon.>",
@@ -864,33 +636,9 @@ visible: true
 visible: true
 },
 {
- id: "86",
- title: "<The Power Of One>",
- text: "<Make a success/fail difference with a +1 buff.>",
-visible: true
-},
-{
  id: "20",
  title: "<The Rains of Castamere>",
  text: "<Commit genocide.>",
-visible: true
-},
-{
- id: "160",
- title: "<The Royal Scribe>",
- text: "<Take notes about the adventure.>",
-visible: true
-},
-{
- id: "85",
- title: "<They Didn’t Mention Any Math!>",
- text: "<Miscount gold while splitting the loot.>",
-visible: true
-},
-{
- id: "10",
- title: "<Thief Of Fate>",
- text: "<Be the only person to roll 20 at a session.>",
 visible: true
 },
 {
@@ -906,57 +654,15 @@ visible: true
 visible: true
 },
 {
- id: "158",
- title: "<To Be or Not To Be>",
- text: "<Roll 20 on a performance check.>",
-visible: true
-},
-{
  id: "162",
  title: "<True Hero>",
  text: "<Sacrifice loot for an higher ideal.>",
 visible: true
 },
 {
- id: "94",
- title: "<Tubthumping>",
- text: "<Reach 0 HP twice in 1 encounter.>",
-visible: true
-},
-{
  id: "101",
  title: "<Us Of Lesser Gods>",
  text: "<Resolve a religious conflict nonviolently.>",
-visible: true
-},
-{
- id: "159",
- title: "<Usain Bolt, Where Are U?>",
- text: "<Roll 20 on a initative roll.>",
-visible: true
-},
-{
- id: "39",
- title: "<Valar Morghulis>",
- text: "<Experience a total party kill.>",
-visible: true
-},
-{
- id: "25",
- title: "<Walking Guillotine>",
- text: "<Decapitate 20 enemies.>",
-visible: true
-},
-{
- id: "113",
- title: "<Wanna See My Mask?>",
- text: "<Roll 20 on an intimidation check.>",
-visible: true
-},
-{
- id: "56",
- title: "<We Spared No Expense>",
- text: "<Go broke.>",
 visible: true
 },
 {
@@ -975,12 +681,6 @@ visible: true
  id: "14",
  title: "<What A Twist!>",
  text: "<Betray the party for your own gain.>",
-visible: true
-},
-{
- id: "88",
- title: "<What Are You, Psychic?>",
- text: "<Mix player and character knowledge.>",
 visible: true
 },
 {
@@ -1021,7 +721,7 @@ visible: true
 },
 {
  id: "121",
- title: "<You Either Die AHero…>",
+ title: "<You Either Die A Hero…>",
  text: "<Shift your alignment to Evil.>",
 visible: true
 },
@@ -1029,24 +729,6 @@ visible: true
  id: "139",
  title: "<You Got Me Monologuing>",
  text: "<Take advantage of a talkative villain.>",
-visible: true
-},
-{
- id: "97",
- title: "<You Know Nothing, Jon Snow>",
- text: "<Roll 1 on an intelligence check.>",
-visible: true
-},
-{
- id: "61",
- title: "<You Merely Adopted The Dark>",
- text: "<Hit an enemy in complete darkness.>",
-visible: true
-},
-{
- id: "144",
- title: "<Your Mother Was A Hamster>",
- text: "<Taunt an enemy to get their attention.>",
 visible: true
 },
 ];
