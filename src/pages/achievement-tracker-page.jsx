@@ -1,15 +1,13 @@
-import achievements from "../data/achievements.json";
-import achieved from "../data/achieved.json";
 import PageLayout from "./page-layout";
 import titleLogo from "../assets/img/achievements-title.png";
 import separatorImage from "../assets/img/achievements-separator.png";
 
 export const pagePath = "/achievements";
 export default function AchievementTrackerPage() {
-  const achievementsHtml = achievements
+  const achievementsHtml = window.achievements
     .sort((a, b) => a.id - b.id)
     .map(({ id, title, text }, i) => {
-      const obtainedBy = Object.entries(achieved)
+      const obtainedBy = Object.entries(window.achieved)
         .filter(([name, achievements]) => achievements.includes(parseInt(id)))
         .map(([name, achievements]) => name);
 
