@@ -1,0 +1,61 @@
+body {
+  background-image: url("assets/img/parchment.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  overflow-x: hidden;
+}
+
+@font-face {
+  font-family: "Draconis";
+  src: url("assets/fonts/draconis-font/Draconis-JRw6B.ttf") format("truetype");
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+li,
+a {
+  font-family: "Draconis", Verdana, Tahoma;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a:hover,
+.active {
+  color: #c73032 !important;
+}
+
+.active:hover {
+  cursor: default;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.hr-white {
+  background-color: white;
+}
+
+.header {
+  height: 11.5vh;
+}
+
+a,
+a:hover {
+  text-decoration: none;
+}
+
+a {
+  color: white;
+}
